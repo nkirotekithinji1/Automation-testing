@@ -12,4 +12,7 @@ These are the test cases present:
 4. Points -Checks to see that you can watch a video,earn and spend a point.
 
 # Object Repository
-Includes all the spyed object ids eg: A coin's id.
+Includes all the spyed object ids eg: A coin's id,buttons id etc.
+
+# Running the application
+After installation of Katalon Studio,open the project and double click on any of the testcases and run on ay IDE of your choice.
