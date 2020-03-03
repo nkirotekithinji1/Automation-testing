@@ -6,6 +6,7 @@ https://www.katalon.com/download/
 
 # Test Cases
 This are the test cases present:
+
 1.Change Language- Allows a tester to check that different languages can be changed on Moja. It has a 10second delay to ensure there's enough browsing time between the different languages.
 2.
 
